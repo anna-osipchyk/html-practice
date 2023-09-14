@@ -58,6 +58,10 @@ html {
 
 }
 
+.top__img {
+    width: 51.854px;
+    height: 44.612px;
+}
 
 .top__p {
     color: var(--Blue_01, #1F3F68);

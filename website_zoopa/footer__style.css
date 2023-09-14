@@ -76,6 +76,11 @@ html {
     color: #FFF;
 }
 
+.footer__button a {
+    text-decoration: none;
+    color: white;
+}
+
 .footer__stroke {
     width: 100%;
     stroke-width: 1px;
@@ -119,7 +124,7 @@ html {
 
     padding-top: 64px;
     box-sizing: border-box;
-    margin-bottom: 64px;
+    padding-bottom: 64px;
 
 
 
@@ -283,7 +288,7 @@ html {
         opacity: 0.4;
 
         box-sizing: border-box;
-        margin-bottom: 32px;
+        padding-bottom: 32px;
 
 
 
