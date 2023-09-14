@@ -142,7 +142,7 @@ html {
 
 @media (max-width: 667px) {
     .top {
-        width: 376px;
+        /* width: 376px; */
         height: 376px;
     }
 
@@ -167,7 +167,8 @@ html {
     }
 
     .top__content {
-        margin-top: 28px;
+        padding-top: 28px;
+        margin: auto;
 
     }
 
@@ -180,7 +181,6 @@ html {
 
     .top__button {
         margin-left: 134px;
-        margin-top: 32px;
 
         width: 108px;
         height: 27px;
@@ -190,6 +190,10 @@ html {
         font-weight: 400;
         line-height: 26px;
         padding-top: 2px;
+
+        margin: auto;
+        margin-top: 32px;
+
     }
 
     .top__illustration {
